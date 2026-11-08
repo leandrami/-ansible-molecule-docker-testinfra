@@ -1,6 +1,6 @@
 galaxy_info:
-  author: Seu Nome
-  namespace: seunome
+  author: Leandra Mi
+  namespace: leandrami
   role_name: servidor_nginx
   description: Instala e inicia o Nginx no Ubuntu
   license: MIT

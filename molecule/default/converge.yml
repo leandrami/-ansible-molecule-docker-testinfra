@@ -4,4 +4,4 @@
   tasks:
     - name: Aplicar a role servidor_nginx
       ansible.builtin.include_role:
-        name: seunome.servidor_nginx
+        name: leandrami.servidor_nginx
