@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Seu Nome
+  namespace: seunome
+  role_name: servidor_nginx
+  description: Instala e inicia o Nginx no Ubuntu
+  license: MIT
+  min_ansible_version: "2.14"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - jammy
